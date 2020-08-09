@@ -1,1 +1,1 @@
-"# fcc-tribute-page" 
+# fcc-tribute-page
